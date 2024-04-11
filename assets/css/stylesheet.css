@@ -7,7 +7,7 @@ body{
 }
 aside{
     
-    background-color: rgba(68, 168, 101, 0.77);
+    background-color: rgba(90, 96, 92, 0.77);
 }
 aside p{
     color: rgb(92, 92, 92);
@@ -16,7 +16,7 @@ aside h3{
     color: rgba(255, 255, 255, 0.646);
 }
 footer{
-    background-color:rgb(59, 119, 100);
+    background-color:rgb(204, 245, 232);
     padding: 1rem;
 }
 aside img{
@@ -25,6 +25,6 @@ aside img{
    padding-bottom: 2rem;
 }
 figure h3{
-    background-color: rgba(68, 168, 101, 0.77);
+    background-color: rgba(201, 228, 104, 0.77);
     color:rgba(255, 255, 255, 0.646);
 }
